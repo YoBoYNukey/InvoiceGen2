@@ -1,0 +1,5 @@
+{
+  "name": "Invoicify-New",
+  "description": "A professional invoice generator with lifecycle management, recycling bin, and text-selectable PDF export.",
+  "requestFramePermissions": []
+}
